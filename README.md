@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_vqa_relationnet)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_VQA_RelationNet
 
 **Relation Network on Sort-of-CLEVR - convergence study (PAI-SG Multimodal Wave 2)**
